@@ -12,7 +12,7 @@ El repositorio está organizado en secciones progresivas, que van desde la creac
 
 ### los tipos de datos que necesitamos
 ![tipos de datos](/media/tiposDeDatos.png)
-## ojo que podemos usar la hora completas + fecha con datetime
+## ojo que podemos usar la hora completa + fecha con datetime
 Tecnologías Utilizadas
 Base de Datos: PostgreSQL
 Lenguaje: SQL
