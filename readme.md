@@ -7,7 +7,12 @@ Contenido y Estructura del Repositorio
 El repositorio está organizado en secciones progresivas, que van desde la creación del esquema hasta las consultas y objetos más complejos:
 
 ![estructura sql](/media/estructura.png)
+
+
+
+### los tipos de datos que necesitamos
 ![tipos de datos](/media/tiposDeDatos.png)
+## ojo que podemos usar la hora completas + fecha con datetime
 Tecnologías Utilizadas
 Base de Datos: PostgreSQL
 Lenguaje: SQL
