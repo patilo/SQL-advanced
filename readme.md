@@ -8,6 +8,8 @@ El repositorio está organizado en secciones progresivas, que van desde la creac
 
 ![estructura sql](/media/estructura.png)
 
+
+### nuestro diagrama ERD de como quedo nuestra base de datos Empresa
 ![como queda el ERD de nuestra bd](/media/erd.png)
 
 ### los tipos de datos que necesitamos
