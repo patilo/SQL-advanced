@@ -14,4 +14,4 @@ ON Empleados (departamento_id, fecha_contrato DESC);
 -- 3. Índice Único: Asegura que la columna tenga valores únicos (adicional a UNIQUE constraint)
 -- Si la tabla Departamentos no tuviera un UNIQUE constraint en nombre_depto, lo haríamos aquí.
 CREATE UNIQUE INDEX uix_departamentos_nombre
-ON Departamentos (nombre_depto);|
+ON Departamentos (nombre_depto);
