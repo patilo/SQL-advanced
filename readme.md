@@ -6,8 +6,6 @@ El objetivo es transformar el conocimiento teórico en habilidades aplicables, d
 Contenido y Estructura del Repositorio
 El repositorio está organizado en secciones progresivas, que van desde la creación del esquema hasta las consultas y objetos más complejos:
 
-![estructura sql](/media/estructura.png)
-
 
 ### nuestro diagrama ERD de como quedo nuestra base de datos Empresa
 ![como queda el ERD de nuestra bd](/media/erd.png)
